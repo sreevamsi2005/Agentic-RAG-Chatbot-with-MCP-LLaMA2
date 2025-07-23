@@ -22,9 +22,13 @@ graph TD
 ##🛠️ Tech Stack
 
 Frontend: Streamlit
+
 LLM: LLaMA2 via Ollama
+
 Embedding: Sentence Transformers (all-MiniLM-L6-v2)
+
 Vector DB: ChromaDB
+
 Orchestration: MCP-style message passing with agent isolation
 
 ![App Screenshot](Screenshot.png)

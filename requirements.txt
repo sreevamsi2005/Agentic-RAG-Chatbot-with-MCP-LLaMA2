@@ -1,0 +1,12 @@
+streamlit
+langchain
+chromadb
+sentence-transformers
+faiss-cpu
+PyMuPDF
+python-docx
+python-pptx
+python-dotenv
+tqdm
+requests
+pandas

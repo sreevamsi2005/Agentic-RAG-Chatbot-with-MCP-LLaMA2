@@ -1,12 +1,10 @@
-# 🤖 Agentic RAG Chatbot with MCP + LLaMA2
+# Agentic RAG Chatbot with MCP + LLaMA2
 
 An intelligent document-based chatbot that leverages a multi-agent architecture using **MCP (Message Communication Protocol)** and **Retrieval-Augmented Generation (RAG)**. Powered by **LLaMA2 via Ollama**, this app allows users to upload a document and ask questions, with context-aware responses and memory via ChromaDB.
 
-> Built with ❤️ using Streamlit, Sentence Transformers, Ollama, and a clean agent-based system.
-
 ---
 
-## 🧠 Architecture Flow
+## Architecture Flow
 
 ```mermaid
 graph TD
@@ -19,7 +17,7 @@ graph TD
       Retrieval --> ChromaDB
     end
 ```
-##🛠️ Tech Stack
+## Tech Stack
 
 Frontend: Streamlit
 
